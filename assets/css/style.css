@@ -110,6 +110,11 @@ p {
     font-size: 36px;
 }
 
+.first img {
+    width: 30%;
+    height: auto;
+}
+
 footer {
     padding: 350px;
     font-family: Arial, sans-serif;
